@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "HelloWorld",
-    "slug": "movies-app",
+    "name": "OMDB-movies",
+    "slug": "omdb-movies",
     "platforms": [
       "ios",
       "android",
